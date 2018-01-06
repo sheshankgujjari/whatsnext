@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">whatsnext</string>
+    <string name="facebook_app_id">309280789476776</string>
+    <string name="twitter_consumer_key">yourhkey</string>
+    <string name="twitter_consumer_secret">yoursecret</string>
+    <string name="linkedin_consumer_key">yourkey</string>
+    <string name="linkedin_consumer_secret">yoursecret</string>
+</resources>

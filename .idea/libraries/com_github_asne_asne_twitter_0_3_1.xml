@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.asne:asne-twitter-0.3.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-twitter-0.3.1.aar/11c79f1cf58508ffac86f343a3e8f182/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-twitter-0.3.1.aar/11c79f1cf58508ffac86f343a3e8f182/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.asne/asne-twitter/0.3.1/35a49755ed6eb1e4451abd4f389ff0b1278dbea/asne-twitter-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

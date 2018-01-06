@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.github.asne:asne-core-0.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-core-0.3.1.aar/1da3da793977128d909e43087adecda2/jars/libs/signpost-core-1.2.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-core-0.3.1.aar/1da3da793977128d909e43087adecda2/jars/libs/signpost-commonshttp4-1.2.1.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-core-0.3.1.aar/1da3da793977128d909e43087adecda2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-core-0.3.1.aar/1da3da793977128d909e43087adecda2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.asne/asne-core/0.3.1/b15a6720c22a2f22eebbe0174886e16c5b526171/asne-core-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

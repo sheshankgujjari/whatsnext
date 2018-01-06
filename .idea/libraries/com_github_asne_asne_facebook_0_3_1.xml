@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.asne:asne-facebook-0.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-facebook-0.3.1.aar/3159534e7f9737af769fb37c6b6587f5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-facebook-0.3.1.aar/3159534e7f9737af769fb37c6b6587f5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.asne/asne-facebook/0.3.1/d2de4cd86ac16e3f058d9824d66b5eba2e139c6f/asne-facebook-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

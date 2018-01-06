@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.asne:asne-googleplus-0.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-googleplus-0.3.1.aar/c748b4e6e1a88b2ace3ec881cad5b380/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-googleplus-0.3.1.aar/c748b4e6e1a88b2ace3ec881cad5b380/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.asne/asne-googleplus/0.3.1/2bd808d342756c1ee96fb850dbc15ca30adb8f89/asne-googleplus-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

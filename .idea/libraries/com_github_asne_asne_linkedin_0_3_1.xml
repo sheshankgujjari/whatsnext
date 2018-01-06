@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.github.asne:asne-linkedin-0.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-linkedin-0.3.1.aar/f0470fce9e449b85b663ed5dc180ba4d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-linkedin-0.3.1.aar/f0470fce9e449b85b663ed5dc180ba4d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asne-linkedin-0.3.1.aar/f0470fce9e449b85b663ed5dc180ba4d/jars/libs/linkedin-j-android-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.asne/asne-linkedin/0.3.1/26e7413bb8e7c949e259a089abdf0118f95a9f93/asne-linkedin-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
